@@ -1,20 +1,21 @@
- [
+
+[
   {
     "name": "Classic Beef Burger",
     "price": "$8.99",
-    "image": "https://static01.nyt.com/images/2022/06/27/dining/kc-mushroom-beef-burgers/merlin_209008674_b3fa58fa-9bb1-4cfe-a08a-40b4dda0de78-jumbo.jpg",
+    "image": "https://images.unsplash.com/photo-1610440042657-612c34d95e9f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=387",
     "description": "Juicy grilled beef patty with lettuce, tomato, and cheese."
   },
   {
     "name": "Chicken Burger",
     "price": "$7.49",
-    "image": "https://images.unsplash.com/photo-1606755962773-0e42b1d58d4e",
+    "image": "https://images.unsplash.com/photo-1637710847214-f91d99669e18?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=421",
     "description": "Grilled chicken breast with creamy mayo and fresh veggies."
   },
   {
     "name": "Veggie Delight Burger",
     "price": "$6.99",
-    "image": "https://images.unsplash.com/photo-1565958011705-44e2117e3b36",
+    "image": "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=387",
     "description": "A healthy plant-based burger with avocado and sprouts."
   },
   {
@@ -26,7 +27,7 @@
   {
     "name": "Spicy Jalapeño Burger",
     "price": "$9.25",
-    "image": "https://images.unsplash.com/photo-1617196039897-f1f6f17e2b5d",
+    "image": "https://plus.unsplash.com/premium_photo-1666830497610-c303d845474e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=388",
     "description": "Loaded with jalapeños and spicy sauce for a fiery kick."
   }
 ]
