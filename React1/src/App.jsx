@@ -14,6 +14,8 @@ import { UseReducerCounter} from "./components/Hooks/UseReducer/Counter";
 import { UseReducerForm } from "./components/Hooks/UseReducer/Form";
 import { ContextParent } from "./components/Hooks/UseContext/Parent";
 import Counter1 from "./components/Hooks/CustomHook/Counter1";
+import { CounterP } from "./UseReducerP";
+import { CounterC } from "./Counter";
  export const App=()=>{
     return(
         <div>
@@ -33,9 +35,13 @@ import Counter1 from "./components/Hooks/CustomHook/Counter1";
         {/* <UseReducerCounter/>
         <UseReducerForm/> */}
 
-      <ContextParent/>
+      {/* <ContextParent/>
 
-      <Counter1/>
+      <Counter1/> */}
+
+     {/* <CounterP/> */}
+      
+    <CounterC/>
          
 
         </div>
