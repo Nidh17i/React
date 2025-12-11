@@ -6,6 +6,7 @@ const initialState = {
 const UmsSlice = createSlice({
   name: "UmsReducer",
   initialState,
+  
   reducers: {
     addUser: (state, action) => {
       state.UserData.push(action.payload);

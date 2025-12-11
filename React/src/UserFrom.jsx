@@ -17,6 +17,7 @@ export default function UserFrom() {
             email,
             role:roleRef.current.value
         }
+        
         if(id){
             dispatch({type:'updateUser',payload:newUser});
             
@@ -27,10 +28,11 @@ export default function UserFrom() {
 
     }
 
+
+
   return (
     <div>
-        
-        <form onSubmit={handleSubmit} >
+    <form onSubmit={handleSubmit} >
             <h2>{id ? 'Edituser':"AddUser"}</h2>
             <input type="text"
             placeholder='Enter Name'
@@ -55,7 +57,7 @@ export default function UserFrom() {
             <br/><br/>
             <button >submit</button>
         </form>
-
+      console.log('form',formData)
     </div>
   
   )
